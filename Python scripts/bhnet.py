@@ -12,7 +12,7 @@ listen = False
 command = False
 upload = False
 execute = ""
-target = "192.168.0.109"
+target = "127.0.0.1"
 upload_destination = ""
 port = 9999
 
